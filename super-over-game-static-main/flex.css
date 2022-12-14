@@ -1,8 +1,0 @@
-.flexbox{
-    display: flex;
-    background-color: red;
-   /* justify-content: right;*/
-    align-items: flex-end;
-    flex-direction: column;
-    height: 400px;
-}
