@@ -1,1 +1,2 @@
-# super-over-game-static
+# super-over-game.
+HAVE  FUN PLAYING IND VS PAK SUPEROVER.
